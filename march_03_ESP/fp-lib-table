@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "fuse_Library")(type "KiCad")(uri "${KIPRJMOD}/fuse_Library.pretty")(options "")(descr ""))
+)
